@@ -4,9 +4,9 @@
 
 - 🔭 I’m currently working on **Time Series Analysis Project**
 
-- 🌱 I’m currently learning **Machine learning**
+- 🌱  I've completed a certification program on **Master Data Science from IIT-M-GUVI**
 
-- 💬 Ask me about **MySQL, Python,Power BI, Machine Learning**
+- 💬 I’m interested in  **MySQL, Python,Power BI, Machine Learning**
 
 - 📫 How to reach me **logeeshr4@gmail.com**
 
