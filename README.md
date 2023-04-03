@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Logeesh R</h1>
-<h3 align="center">A passionate Data Science and Machine Learning</h3>
+<h3 align="center">Passionate about Data Science and Machine Learning</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" />
 
 - 🔭 I’m currently working on **Time Series Analysis Project**
